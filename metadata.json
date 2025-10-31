@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Creative Suite",
+  "description": "A multi-modal AI-powered creative suite to generate and edit images, generate videos, converse with an AI, and explore grounded information.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
